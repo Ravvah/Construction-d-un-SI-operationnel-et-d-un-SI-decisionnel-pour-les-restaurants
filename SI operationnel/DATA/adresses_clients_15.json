@@ -1,0 +1,24 @@
+{
+"adresse_client":[
+    {
+        "id_adresse_client": 11,
+        "adresse_client": "2 Rue du Bac, 75007 Paris"
+    },
+    {
+        "id_adresse_client": 12,
+        "adresse_client": "18 Rue de Bretagne, 75003 Paris"
+    },
+    {
+        "id_adresse_client": 13,
+        "adresse_client": "21 Rue Royale, 69001 Lyon"
+    },
+    {
+        "id_adresse_client": 14,
+        "adresse_client": "6 Avenue de l'Opéra, 75001 Paris"
+    },
+    {
+        "id_adresse_client": 15,
+        "adresse_client": "12 Boulevard Saint-Michel, 75006 Paris"
+    }
+]
+}
