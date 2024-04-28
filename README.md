@@ -1,1 +1,1 @@
-# Construction-d-un-SI-d-cisionnel-pour-les-restaurants
+# Construction-d-un-SI-decisionnel-pour-les-restaurants
