@@ -1,9 +1,3 @@
--- Généré par Oracle SQL Developer Data Modeler 23.1.0.087.0806
---   à :        2024-01-19 18:40:37 CET
---   site :      Oracle Database 11g
---   type :      Oracle Database 11g
-
-
 
 DROP TABLE dsid_liv_wrk.dm1_ods CASCADE;
 
